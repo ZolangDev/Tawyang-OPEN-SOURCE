@@ -1,0 +1,20 @@
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\bin\Debug\Tawyang TrainerTEST.exe.config
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\bin\Debug\Tawyang TrainerTEST.exe
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\bin\Debug\Tawyang TrainerTEST.pdb
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.csprojAssemblyReference.cache
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang_TrainerTEST.Form1.resources
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang_TrainerTEST.Properties.Resources.resources
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.csproj.GenerateResource.cache
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.csproj.CoreCompileInputs.cache
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.exe
+C:\Users\sejau_000\source\repos\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.pdb
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.csprojAssemblyReference.cache
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang_TrainerTEST.Form1.resources
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang_TrainerTEST.Properties.Resources.resources
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.csproj.GenerateResource.cache
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.csproj.CoreCompileInputs.cache
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\bin\Debug\Tawyang TrainerTEST.exe.config
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\bin\Debug\Tawyang TrainerTEST.exe
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\bin\Debug\Tawyang TrainerTEST.pdb
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.exe
+C:\Users\SIVX\Desktop\Tawyang_TrainerTEST\Tawyang TrainerTEST\Tawyang TrainerTEST\obj\Debug\Tawyang TrainerTEST.pdb
